@@ -6,4 +6,4 @@ Just a sample Chessboard project designed with CSS Flex
 - HTML
 
 ### Live Demo
-https://tristanlim99.github.io/projectflex/
+https://tristanlim99.github.io/ChesswithFlex/
